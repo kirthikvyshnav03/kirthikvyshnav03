@@ -1,6 +1,8 @@
 <h1 align="center"> Hello,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> I'm KIRTHIK VYSHNAV S S A</h1>
+![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/user-attachments/assets/907bc7e4-376d-41d0-b852-857851c6b3e7)
+
         
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kirthikvyshnav03&label=Views&color=blue&style=plastic&style=for-the-badge" alt="kirthikvyshnav03" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kirthikvyshnav03&label=Views&color=blue&style=plastic&style=for-the-badge" alt="kirthikvyshnav03" /> </p>
 
 ## 💫 About Me :
 - 😄 Pronouns: He/Him
