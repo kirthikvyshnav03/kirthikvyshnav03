@@ -4,16 +4,15 @@
 
 ## 💫 About Me :
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently pursing more about **web development and Graphic Design**.
+- 🌱 I’m currently pursing **MCA in SRM INSTITUDE OF SCIENCE TECHOLOGY**.
 - 🤔 I’m looking for help with upgrading with new technologies.
 - 📝 I regularly update on **<a href="https://www.linkedin.com/in/kirthik-vyshnav-arul-26b615225">LinkedIn</a>** 
-- 💬 Ask me about any **Tech-related stuff**.
+- 💬 I'm interested and Studying about **Web developement and Graphic Design**.
 - 📫 How to reach me: **kirthikvyshnav@gmail.com** and Check social links below.
 - ⚡ Fun fact: I spend almost 2 hours in social media.
 
 ## 🔗Connect With me :
-<a href="https://www.linkedin.com/in/kirthik-vyshnav-arul-26b615225
-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Akilesh--S" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kirthik-vyshnav-arul-26b615225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 
 
 ## 💻 Language and Tools:
@@ -21,6 +20,8 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> </a>
+<a href="https://discover.photoshop.com/en/discover/category/all" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="canva" width="40" height="40"/> </a>
  
 
 ## 📟 GitHub Stats :
