@@ -6,7 +6,7 @@
 
 ## 💫 About Me :
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently pursing **MCA in SRM INSTITUDE OF SCIENCE TECHOLOGY**.
+- 🌱 I’m currently pursing **MCA in SRM INSTITUTE OF SCIENCE TECHOLOGY**.
 - 🤔 I’m looking for help with upgrading with new technologies.
 - 📝 I regularly update on **<a href="https://www.linkedin.com/in/kirthik-vyshnav-arul-26b615225">LinkedIn</a>** 
 - 💬 I'm interested and Studying about **Web developement and Graphic Design**.
